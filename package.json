@@ -1,0 +1,15 @@
+{
+  "name": "discord-plug.dj",
+  "version": "1.0.0",
+  "description": "Discord <=> Plug.dj",
+  "main": "index.js",
+  "dependencies": {
+	  "plugapi": "https://github.com/Thog/plugAPI/tarball/c517cb8340610074b232b74b0120129687b63caf",
+	  "discord.js": "6.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thog",
+  "license": "MIT"
+}
